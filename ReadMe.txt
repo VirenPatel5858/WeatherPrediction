@@ -1,0 +1,2 @@
+I have used jupyter notebook to run my python code. I have attached my jupyter notebook that contains the entire code I created for the project. The 'Weather_Prediction.ipynb'is the jupyter notebook. The notebook loads the data file which is the 'Chicago.csv' using pandas.
+'Weather_Prediction.py' is the python file that contains the python code. The .csv file needs to be in the same folder when we are running the jupyter notebook so that the data is loaded.
